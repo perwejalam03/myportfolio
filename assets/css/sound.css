@@ -1,0 +1,41 @@
+#header-sound{
+    top: 4%;
+    left: 43%;
+    width: min-content;
+    height: auto;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    z-index: 2;
+  }
+  #sound {
+    padding: 7px;
+    background-color: #1b1b1b;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+  }
+  .sound-cloud {
+    font-size: 1.2rem;
+    margin: 7px;
+    color:#A395E9;
+  }
+  .on-off {
+    cursor: pointer;
+    margin-left: 5px;
+  }
+  #off {
+    color:#A395E9;
+  }
+  #on {
+    display: none;
+    color: #08fdd8;
+  }
+ */
+  .btns-container .fas:nth-child(2) {
+    display: none;
+  }
+  
